@@ -1,2 +1,0 @@
-message = input("Hey there! Type in a message and I'll repeat it back to you: ")
-print("What? You think I work for you? Get outta here")
